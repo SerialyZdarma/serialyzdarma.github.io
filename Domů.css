@@ -1,0 +1,81 @@
+.u-section-1 .u-image-1 {
+  min-height: 500px;
+  background-image: url("images/6090441-zoo_584x326_3.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  margin: 455px auto 9px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 149px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 670px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3.125rem;
+  margin: 40px 655px 0 53px;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 3.75rem;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: -279px 151px 60px auto;
+  padding: 21px 34px 22px 33px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 508px;
+    margin-left: 59px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 288px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 108px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 65px;
+    margin-right: 0;
+  }
+}

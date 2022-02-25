@@ -1,0 +1,32 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  font-size: 2.375rem;
+  margin: 20px 46px 0 25px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.875rem;
+  margin: 84px auto 60px 385px;
+  padding: 30px 64px 32px 63px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 185px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
