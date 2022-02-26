@@ -1,39 +1,111 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 670px;
+  min-height: 846px;
 }
 
 .u-section-1 .u-image-1 {
-  width: 186px;
+  width: 214px;
   height: 268px;
-  margin: 91px auto 0 60px;
+  margin: 91px auto 0 339px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
+  font-size: 1.75rem;
+  margin: -48px 603px 0 351px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 186px;
+  height: 268px;
+  margin: -264px auto 0 60px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
   font-size: 1.875rem;
-  margin: -46px 894px 60px 60px;
+  margin: -46px 894px 46px 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
-    margin-right: 694px;
+    width: auto;
+    margin-right: 401px;
+    margin-left: 353px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -268px;
+    margin-left: 46px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin: -44px 708px 60px 46px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-1 {
-    margin-right: 474px;
+    margin-top: -44px;
+    margin-right: 181px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -272px;
+    margin-left: 57px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -48px;
+    margin-right: 477px;
+    margin-left: 57px;
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 95px;
+    margin-right: 35px;
+    margin-left: auto;
+  }
+
   .u-section-1 .u-text-1 {
-    margin-right: 294px;
+    margin-top: -46px;
+    margin-right: 49px;
+    margin-left: 305px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -266px;
+    margin-left: 49px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 305px;
+    margin-left: 49px;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 403px;
+    margin-right: 47px;
+  }
+
   .u-section-1 .u-text-1 {
-    margin-right: 94px;
+    margin-top: -51px;
+    margin-right: 61px;
+    margin-left: 93px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -564px;
+    margin-right: 61px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 61px;
+    margin-left: 93px;
   }
 }
